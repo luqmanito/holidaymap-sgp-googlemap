@@ -10,7 +10,7 @@ export default function Home() {
   const libraries = ["places"];
   const { isLoaded } = useLoadScript({
     // apiKey is provided, better use from env file
-    googleMapsApiKey: "AIzaSyCA3kJHWjUMRd4mnynKTTUiLA2grNb_Aq0" || process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
+    googleMapsApiKey: process.env.NEXT_PUBLIC_GOOGLE_MAPS_API_KEY,
     libraries,
   });
 

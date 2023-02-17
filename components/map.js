@@ -20,7 +20,7 @@ export default function Map() {
 
   const options = {
     // mapId is provided, better use from env file
-    mapId: "a6d836eff8e369f7" || process.env.NEXT_PUBLIC_MAP_ID,
+    mapId: process.env.NEXT_PUBLIC_MAP_ID,
     streetViewControl: false,
     disableDefaultUI: true,
     zoomControl: true,
