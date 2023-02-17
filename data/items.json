@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "place_name": "Merlion",
+    "image": "/imgs/merlion.jpeg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.28692,
+      "lng": 103.85457
+    },
+    "description": "The Merlion is the national personification of Singapore. Its name combines 'mer' meaning the sea and 'lion'. The fish body represents Singapore's origin as a fishing village when it was called Temasek, which means 'sea town' in Javanese. The lion head represents Singapore's original name-Singapura-meaning 'lion city' or 'kota singa'"
+  },
+  {
+    "id": 2,
+    "place_name": "Asian Civilisations Museum",
+    "image": "/imgs/asian-cv.jpeg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.287466,
+      "lng": 103.851424
+    },
+    "description": "The Asian Civilisations Museum is an institution which forms a part of the four museums in Singapore, the other three being the Peranakan Museum at Old Tao Nan School, the National Museum of Singapore and the Singapore Art Museum."
+  },
+  {
+    "id": 3,
+    "place_name": "Clarke Quay",
+    "image": "/imgs/clarke-q.jpg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.290555,
+      "lng": 103.846188
+    },
+    "description": "Clarke Quay is a historical riverside quay in Singapore, located within the Singapore River Planning Area. The quay is situated upstream from the mouth of the Singapore River and Boat Quay."
+  },
+  {
+    "id": 4,
+    "place_name": "Fort Canning Park",
+    "image": "/imgs/fort-c.jpeg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.295526,
+      "lng": 103.845331
+    },
+    "description": "Fort Canning Park, an iconic hilltop landmark has witnessed many of Singapore’s historical milestones. The hill once sited the palaces of 14th century Kings and served as the Headquarters of the Far East Command Centre and British Army Barracks. The decision to surrender Singapore to the Japanese on 15 February 1942 was also made on the hill, in the Underground Far East Command Centre, commonly known as Battle Box."
+  },
+  {
+    "id": 5,
+    "place_name": "Orchard Road",
+    "image": "/imgs/orchard-r.jpg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.302279,
+      "lng": 103.837399
+    },
+    "description": "Orchard Road is Singapore’s retail heart, with discount outlets, department stores and upscale boutiques, alongside luxury hotels. Emerald Hill Road is a mix of colorful Chinese baroque houses and casual pubs, while al fresco bars and eateries can be found along nearby Cuppage Terrace. The Newton Food Centre is a popular foodie hub, offering everything from barbecued seafood and roasted meats to traditional desserts. "
+  },
+  {
+    "id": 6,
+    "place_name": "Singapore Flyer",
+    "image": "/imgs/sgp-flyer.jpg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.289332,
+      "lng": 103.863152
+    },
+    "description": "The Singapore Flyer is an observation wheel at the Downtown Core district of Singapore. Officially opened on 15 April 2008, it has 28 air-conditioned capsules, each able to accommodate 28 passengers, and incorporates a three-story terminal building. "
+  },
+  {
+    "id": 7,
+    "place_name": "Marina Bay Sands",
+    "image": "/imgs/marina-bay.jpg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.283099,
+      "lng": 103.860295
+    },
+    "description": "Marina Bay Sands is one of two winning proposals for Singapore's first integrated resorts, the other being the Resorts World Sentosa, which incorporates a family-friendly Universal Studios Theme Park (Universal Studios Singapore). The two large-scale resorts were conceived to meet Singapore's economic and tourism objectives for the next decade and will have 30-year casino licenses, exclusive for the first ten years. Bidders were assessed based on four criteria: tourism appeal and contribution, architectural concept and design, development investment, and strength of the consortium and partners."
+  },
+  {
+    "id": 8,
+    "place_name": "Gardens By The Bay",
+    "image": "/imgs/garden-bay.jpeg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.28179,
+      "lng": 103.863954
+    },
+    "description": "The Gardens by the Bay is a nature park spanning 101 hectares in the Central Region of Singapore, adjacent to the Marina Reservoir. The park consists of three waterfront gardens: Bay South Garden, Bay East Garden and Bay Central Garden."
+  },
+  {
+    "id": 9,
+    "place_name": "Chinatown",
+    "image": "/imgs/chinatown.jpg",
+    "marker-image": "/imgs/marker-icon.png",
+    "location": {
+      "lat": 1.284193,
+      "lng": 103.843362
+    },
+    "description": "Chinatown's maze of narrow roads includes Chinatown Food Street, with its restaurants serving traditional fare like Hainanese chicken rice, noodles and satay. Souvenir shops and indie boutiques dot the area, offering clothes, crafts and antiques, while Club Street is full of trendy wine bars. Cultural institutions here include the 1827 Sri Mariamman Temple and the ornate Buddha Tooth Relic Temple and Museum."
+  }
+]
